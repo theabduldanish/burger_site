@@ -1,2 +1,2 @@
 # burger_site
-Burgersite , amde deliciously with php!
+Burgersite , amade deliciously with php!
