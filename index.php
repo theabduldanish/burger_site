@@ -20,7 +20,7 @@ mysqli_close($conn);
 <!DOCTYPE html>
 <?php include ('templates/header.php') ?>
 
-<h4 class='center grey-text'>Lets have Burgers!</h4>
+<h4 class='center grey-text'>Lets have Burgers!!</h4>
 
 <div class="container">
     <div class="row">
